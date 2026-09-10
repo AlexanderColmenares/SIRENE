@@ -1,3 +1,7 @@
 build/
 .ninja_*
 compile_commands.json
+.vscode/
+*.exe
+*.obj
+*.o
